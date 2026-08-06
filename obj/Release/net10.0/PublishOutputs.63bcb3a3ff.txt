@@ -1,0 +1,5 @@
+/home/user/Desktop/6th sem/dotnet/Lab/Lab6/bin/Release/net10.0/publish/Lab6
+/home/user/Desktop/6th sem/dotnet/Lab/Lab6/bin/Release/net10.0/publish/Lab6.dll
+/home/user/Desktop/6th sem/dotnet/Lab/Lab6/bin/Release/net10.0/publish/Lab6.deps.json
+/home/user/Desktop/6th sem/dotnet/Lab/Lab6/bin/Release/net10.0/publish/Lab6.runtimeconfig.json
+/home/user/Desktop/6th sem/dotnet/Lab/Lab6/bin/Release/net10.0/publish/Lab6.pdb
