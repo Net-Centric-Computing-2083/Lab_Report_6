@@ -1,21 +1,32 @@
 ﻿using System;
 
-namespace Lab_Report_6
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Welcome to .NET CLI");
-            Console.WriteLine("----------------------------");
-            Console.WriteLine(".NET CLI Commands Demonstration");
-            Console.WriteLine();
-            Console.WriteLine("Compilation: Successful");
-            Console.WriteLine("Execution: Successful");
-            Console.WriteLine("CLR Loaded Successfully");
-            Console.WriteLine("MSIL Executed Successfully");
-            Console.WriteLine();
-            Console.WriteLine("Lab Report 6 Completed Successfully.");
-        }
+        Console.WriteLine("======================================");
+        Console.WriteLine("       NET CENTRIC COMPUTING");
+        Console.WriteLine("              LAB 6");
+        Console.WriteLine("======================================");
+
+        Console.WriteLine();
+
+        Console.WriteLine("Building and Executing .NET Application");
+        Console.WriteLine("--------------------------------------");
+
+        Console.WriteLine("Welcome to .NET CLI");
+        Console.WriteLine("This application demonstrates .NET Core execution.");
+
+        Console.WriteLine();
+        Console.WriteLine("Compilation and execution completed successfully.");
+
+        Console.WriteLine();
+        Console.WriteLine("CLI  : Common Language Infrastructure");
+        Console.WriteLine("MSIL : Microsoft Intermediate Language");
+        Console.WriteLine("CLR  : Common Language Runtime");
+
+        Console.WriteLine();
+        Console.WriteLine("Application executed successfully.");
+        Console.WriteLine("======================================");
     }
 }
