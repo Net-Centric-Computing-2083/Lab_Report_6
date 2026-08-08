@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\Lab_Report_6\DotNetApp\bin\Release\net10.0\publish\DotNetApp.exe
+C:\Users\USER\source\repos\Lab_Report_6\DotNetApp\bin\Release\net10.0\publish\DotNetApp.dll
+C:\Users\USER\source\repos\Lab_Report_6\DotNetApp\bin\Release\net10.0\publish\DotNetApp.deps.json
+C:\Users\USER\source\repos\Lab_Report_6\DotNetApp\bin\Release\net10.0\publish\DotNetApp.runtimeconfig.json
+C:\Users\USER\source\repos\Lab_Report_6\DotNetApp\bin\Release\net10.0\publish\DotNetApp.pdb
